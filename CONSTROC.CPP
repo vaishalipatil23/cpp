@@ -19,5 +19,7 @@ cout<<a;
 void main()
 {
 clrscr();
+Demo object;
+object.show();
 getch();
 }
